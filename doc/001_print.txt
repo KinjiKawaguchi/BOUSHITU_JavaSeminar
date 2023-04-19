@@ -1,0 +1,8 @@
+まずはSystem.out.printを利用して、なにかを出力するプログラムを作成しましょう。
+
+System.out.println("hogehoge")でなにか文字列を出力する遊びをしてみる。
+
+
+
+完成形としてはSystem.out.println("ゲームのタイトル")でゲームのタイトルを出力できるようにしてみる
+
