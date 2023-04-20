@@ -18,6 +18,7 @@ public class scanner {
          *System.out.println(Player_name + "「朕の年齢は」" + Player_age +"だよ！」");
          *System.out.println(Player_name + "「" + Player_age + 10 + "歳か！」");//歳を聞き間違える風
          */
+        
         sc.close();
     }
 }
